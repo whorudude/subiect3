@@ -1,0 +1,16 @@
+[
+  {
+    "nume": "Pisica",
+    "inaltime": 13,
+    "anNastere": 2008,
+    "lunaNastere": 8,
+    "ziNastere": 1
+  },
+  {
+    "nume": "Catelus",
+    "inaltime": 7,
+    "anNastere": 2023,
+    "lunaNastere": 7,
+    "ziNastere": 2
+  }
+]
